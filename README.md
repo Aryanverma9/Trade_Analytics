@@ -1,7 +1,5 @@
 # Trade Analytics Dashboard
 
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/stackblitz-starters-j7wm7apa)
-
 A dark-themed trading journal and analytics platform. Upload a CSV of your trades and get instant performance insights across 7 analytical views.
 
 ---
